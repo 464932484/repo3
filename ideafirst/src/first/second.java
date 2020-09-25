@@ -6,5 +6,6 @@ public class second {
         System.out.println("hello2");
         System.out.printf("hello3");
         System.out.printf("hello4");
+        System.out.println("hello5");
     }
 }
